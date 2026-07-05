@@ -39,3 +39,6 @@ chmod +x rotate-trigger.sh
 
 
  
+=======
+# rotate-screen
+Script to  rotate-screen using  keystroke in Wayland Plasma  
